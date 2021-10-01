@@ -46,8 +46,40 @@
             img: "https://cdn.shopify.com/s/files/1/0293/9277/products/10-16-20Studio3_RT_DJ_10-36-22_57_1CACR1002S_Burgundy_0567_PLUS_NT_468x.jpg?v=1602893860",
             background_img:"#",
           },
+          {
+            name:"Terren Skinny Jeans - Medium Wash",
+            color:"Color Medium Wash",
+            price:"$37.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/TerrenSkinnyJeans-MediumWash_MER_468x.jpg?v=1622755975",
+            background_img:"#",
+          },
+          {
+            name:"Alvin Skinny Jean - Medium Wash",
+            color:"Color Medium Wash",
+            price:"$30.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/AlvinSkinnyJean-MediumWash_MER_468x.jpg?v=1620852809",
+            background_img:"#",
+          },
+          {
+            name:"Impression Skinny Jeans - Light Blue Wash",
+            color:"Color Light Blue Wash",
+            price:"$35.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/ImpressionSkinnyJeans-LightBlueWash_MER_468x.jpg?v=1618963473",
+            background_img:"#",
+          },
+          {
+            name:"Teek Racing Stripe Skinny Jeans - MediumWash",
+            color:"Color MediumWash",
+            price:"$41.99 USD",
+            productlink:"",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/TeekRacingStripeSkinnyJeans-MediumWash_MER_468x.jpg?v=1632776076",
+            background_img:"#",
+          },
 
-  ]
+      ]
        let trendinginData = [
         {
             name: "Jackson Plaid Overcoat ",
@@ -79,6 +111,38 @@
             price: "$23.99 USD",
             productlink:"#",
             img: "https://cdn.shopify.com/s/files/1/0293/9277/products/RodrigoSweater-Redcombo_MER_468x.jpg?v=1609890710",
+            background_img:"#",
+          },
+          {
+            name:"Simply Hustler Short Sleeve Tee - Red",
+            color:"Color Red",
+            price:"$15.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/07-21-21Studio3_CE_TB_11-56-09_104_JT001_Red_2996_WG_468x.jpg?v=1627072606",
+            background_img:"#",
+          },
+          {
+            name:"Self Paid Colorblock Short Sleeve Tee - Black/White",
+            color:"Color Black/White",
+            price:"$15.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/07-16-21Studio4_RM_KP_14-26-59_105_JT018_BlackWhite_1884_PLUS_JK_360x.jpg?v=1627072742",
+            background_img:"#",
+          },
+          {
+            name:"Wilson Long Sleeve Polo - Grey",
+            color:"Color Grey",
+            price:"$12.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/10-21-19_Studio_4_OD_OM_14-39-10_49__MP01165_Grey_5158_NT_468x.jpg?v=1571876678",
+            background_img:"#",
+          },
+          {
+            name:"Crater Skinny Destroyed Jeans - LightWash",
+            color:"Color LightWash",
+            price:" $34.99 USD",
+            productlink:"#",
+            img:"https://cdn.shopify.com/s/files/1/0293/9277/products/CraterSkinnyDestroyedJeans-LightWash_MER_468x.jpg?v=1622661041",
             background_img:"#",
           }, 
   ]
