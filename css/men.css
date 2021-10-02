@@ -322,7 +322,7 @@ ul{
 
 
 #trendingProducts div{
-  position: relative;
+
   height: 100%;
   padding-top: 5%;
   
@@ -357,7 +357,7 @@ height: auto;
     
 }
 #favoriteProducts div{
-  position: relative;
+ ;
   padding-top: 5%;
   height: 100%;
   
@@ -376,6 +376,24 @@ height: auto;
   font-size: 28px;
   margin-bottom: 10px
 }
+
+/* MEDIA QUERRY HERE */
+
+
+@media only screen and (min-width: 990px) {
+  #img1 {
+    src: 'https://cdn.shopify.com/s/files/1/0293/9277/files/10.01.21_mens_desktop_promo_3c226428-b212-4567-b935-f0ea69bd5672_900x.jpg?v=1633122730';
+  }
+}
+
+@media only screen and (min-width: 1140px) {
+  #img1 {
+    background-image: url('https://cdn.shopify.com/s/files/1/0293/9277/files/10.01.21_mens_desktop_promo_3c226428-b212-4567-b935-f0ea69bd5672_1400x.jpg?v=1633122730');
+  }
+}
+
+
+
 /* javascript functions css */
 .active {background:rgba(192, 192, 192, 0.993)}
 .sticky {position: fixed;top: 0;width: 100%}
