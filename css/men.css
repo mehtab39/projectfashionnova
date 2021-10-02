@@ -93,9 +93,7 @@ background-color: rgb(20, 20, 20);
 
 
 }
-
-
-                                       /* logo customisation */
+/* logo customisation */
 .logotab .logo{
 height: 65px;
 width: 150px;
@@ -114,7 +112,7 @@ border-radius:25px;
 font-size: 15px;
 
 }
-                          /* icons are here to customise */
+ /* icons are here to customise */
  .topicons{
 
    margin-left:1150px;
@@ -233,9 +231,10 @@ ul{
       color: black;
       font-size: 40px;
   }
+  /*
   .newarrival img:hover{
     display: none;
-  }
+  }*/
   .shopMore{
    
     margin-top: 35px;
@@ -302,19 +301,30 @@ ul{
        
    }
    #trendingProducts{
-          margin-top: 35px;
-          margin-left: 50px;
+    /*margin-top: 5%;
+    margin-left: 50px;
     display: grid;
      grid-template-columns: 23% 23% 23% 23%;
-     grid-template-rows: 430px;
+     grid-template-rows: 430px 430px;
      grid-gap: 40px;
      
-     height: 700px;
- 
-    
+     height: 1100px;
+ */
+ margin-top: 35px;
+    margin-left: 50px;
+    display: grid;
+     grid-template-columns: 20% 20% 20% 20%;
+     grid-template-rows: 600px;
+     grid-gap: 4%;
+    padding: 4%;
+
 }
+
+
 #trendingProducts div{
-  height: 600px;
+  position: relative;
+  height: 100%;
+  padding-top: 5%;
   
 }
 #trendingProducts div img{
@@ -332,18 +342,23 @@ height: auto;
   margin-bottom: 10px
 }
 #favoriteProducts{
-          margin-top: 35px;
-          margin-left: 50px;
+    margin-top: 35px;
+    margin-left: 50px;
     display: grid;
-     grid-template-columns: 23% 23% 23% 23%;
-     grid-template-rows: 430px;
-     grid-gap: 40px;
-     
-     height: 700px;
- 
+     grid-template-columns: 20% 20% 20% 20%;
+     grid-template-rows: 600px;
+     grid-gap: 4%;
+    padding: 4%;
+
+     /*
+     margin-bottom: 50px;
+    height: 700px;
+ */
     
 }
 #favoriteProducts div{
+  position: relative;
+  padding-top: 5%;
   height: 100%;
   
 }
@@ -354,7 +369,7 @@ height: auto;
 }
 #favoriteProducts div button{
   width: 100%;
-  background-color: black;
+ background-color: #111;
   color: white;
   height: 40px;
   font-weight: 900;
