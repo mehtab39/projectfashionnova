@@ -310,7 +310,7 @@ ul{
      
      height: 1100px;
  */
- margin-top: 35px;
+    margin-top: 35px;
     margin-left: 50px;
     display: grid;
      grid-template-columns: 20% 20% 20% 20%;
